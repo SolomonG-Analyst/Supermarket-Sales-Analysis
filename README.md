@@ -30,4 +30,6 @@ The objective of this analysis is to:
 
 ## 📸 Dashboard Preview
 
+![Picture2](https://github.com/user-attachments/assets/35cba830-040e-4e22-bf60-9799ec43b010)
+![Picture1](https://github.com/user-attachments/assets/30ab9cbc-4230-4344-9059-806340c9156e)
 
