@@ -25,6 +25,7 @@ The objective of this analysis is to:
 5. **Promote Digital Payments**: Encourage digital payments through loyalty points or exclusive offers.
 
 ## 🧰 Tools & Technologies
+- **SQL** – Used for querying and exploring raw sales data before analysis
 - **Excel** – For data cleaning and preparation
 - **Power BI** – For dashboard development and data visualization
 
